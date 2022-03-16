@@ -4,7 +4,7 @@
 "dialogTitle":"UPDATE",
 "dialogSubtitle":"I Hope You Like, Thanks :)\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Oke",
+"textButton":"Update",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.one.optimizer",
-"forceUpdate":"true"
+"forceUpdate":"false"
 }
