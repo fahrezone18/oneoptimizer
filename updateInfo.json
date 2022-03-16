@@ -1,10 +1,8 @@
-{
-"newVersion":"2.11",
+{"newVersion":"2.11",
 "newVcode":"211",
 "dialogTitle":"UPDATE",
 "dialogSubtitle":"I Hope You Like, Thanks :)\n\n~ FahrezONE",
 "visibleButton":"true",
 "textButton":"Oke",
 "upLink":"false",
-"dialogCancelable":"true"
-}
+"dialogCancelable":"true"}
