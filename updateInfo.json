@@ -1,10 +1,10 @@
 {
 "newVersion":"2.18",
 "newVcode":"218",
-"dialogTitle":"MAINTENANCE",
-"dialogSubtitle":"Sorry, while waiting you can use the free version😅\n\n~ FahrezONE",
+"dialogTitle":"UPDATE",
+"dialogSubtitle":"Update is available, you can update it now😉\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Oke",
+"textButton":"Update",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.go",
 "linkVerify":"com.android.vending",
 "forceUpdate":"true"
