@@ -1,11 +1,11 @@
 {
-"newVersion":"2.17",
-"newVcode":"217",
-"dialogTitle":"UPDATE",
-"dialogSubtitle":"For pirated users, how are you? 😂\n\n~ FahrezONE",
+"newVersion":"2.18",
+"newVcode":"218",
+"dialogTitle":"MAINTENANCE",
+"dialogSubtitle":"Sorry, while waiting you can use the free version first😅\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Update",
-"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.one.optimizer",
-"linkVerify":"test",
+"textButton":"Oke",
+"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.go",
+"linkVerify":"com.android.vending",
 "forceUpdate":"true"
 }
