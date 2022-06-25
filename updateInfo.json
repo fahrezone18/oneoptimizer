@@ -1,8 +1,8 @@
 {
 "newVersion":"2.25",
 "newVcode":"227",
-"dialogTitle":"MAINTENANCE",
-"dialogSubtitle":"maintenance, please wait\n\n~ FahrezONE",
+"dialogTitle":"UPDATE",
+"dialogSubtitle":"Update Available, you can update now :)\n\n~ FahrezONE",
 "visibleButton":"true",
 "textButton":"Update",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.one.optimizer",
