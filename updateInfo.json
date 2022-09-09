@@ -2,6 +2,7 @@
 "newVersion":"2.30",
 "newVcode":"230",
 "dialogTitle":"UPDATE",
+"dialogSecTitle":"#2",
 "dialogSubtitle":"Update Available, you can update now :)\n\n~ FahrezONE",
 "visibleButton":"true",
 "textButton":"Update",
