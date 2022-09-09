@@ -5,8 +5,8 @@
 "dialogSecTitle":"#2",
 "dialogSubtitle":"Update Available, you can update now :)\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButtonTrue":"Update",
 "textButtonFalse":"Later",
+"textButtonTrue":"Update",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.one.optimizer",
 "linkVerify":"com.android.vending",
 "forceUpdate":"false"
