@@ -5,9 +5,9 @@
 "dialogSecTitle":"#1",
 "dialogSubtitle":"\"Fitur Quotes Everyday bisa didapatkan hanya dengan membeli One Optimizer (Rp95.000)\"\n\n~ FahrezONE😁👈",
 "visibleButton":"true",
-"textButtonFalse":"Later",
+"textButtonFalse":"Ok😁",
 "textButtonTrue":"Update",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.one.optimizer",
 "linkVerify":"com.android.vending",
-"forceUpdate":""
+"forceUpdate":"false"
 }
