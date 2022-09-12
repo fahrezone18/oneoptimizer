@@ -1,9 +1,9 @@
 {
 "newVersion":"2.41",
-"newVcode":"241",
+"newVcode":"243",
 "dialogTitle":"NOTES",
 "dialogSecTitle":"Dev",
-"dialogSubtitle":"Maybe some new features are still under development 😅\n\n~ FahrezONE",
+"dialogSubtitle":"Please clear data if \"Black Screen\" occurs (V2.42), usually happens on Android 12😅\n\n~ FahrezONE",
 "visibleButton":"true",
 "textButtonFalse":"Ok",
 "textButtonTrue":"Update",
