@@ -1,13 +1,13 @@
 {
-"newVersion":"2.46",
-"newVcode":"247",
-"dialogTitle":"NOTES",
+"newVersion":"2.49",
+"newVcode":"249",
+"dialogTitle":"UPDATE",
 "dialogSecTitle":"Dev",
-"dialogSubtitle":"PLEASE DONT UPDATE YET!\n\n~ FahrezONE",
+"dialogSubtitle":"You can Update Now :)\n\n~ FahrezONE",
 "visibleButton":"true",
 "textButtonFalse":"Ok",
 "textButtonTrue":"Update",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.one.optimizer",
 "linkVerify":"com.android.vending",
-"forceUpdate":"false"
+"forceUpdate":"true"
 }
